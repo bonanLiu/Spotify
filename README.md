@@ -9,6 +9,7 @@ pip install scipy
 pip install pandas
 pip install seaborn
 pip install scikit-learn
+pip install ace_tools
 
 # Explanation of the features
 
