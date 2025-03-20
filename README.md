@@ -5,6 +5,7 @@ git push origin main
 
 
 # install
+pip install -r requirements.txt
 pip install scipy
 pip install pandas
 pip install seaborn
