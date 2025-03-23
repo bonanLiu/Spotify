@@ -1,13 +1,13 @@
-# Create
+# Create virtual environment
 python -m venv venv
 
-# Active
+# Active virtual environment
 # Windows:
 .\venv\Scripts\activate
 # macOS / Linux:
 source venv/bin/activate
 
-# Install
+# Install environment
 pip install -r requirements.txt
 
 
