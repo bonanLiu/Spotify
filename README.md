@@ -1,7 +1,23 @@
-# Spotify
+# Create
+python -m venv venv
+
+# Active
+# Windows:
+.\venv\Scripts\activate
+# macOS / Linux:
+source venv/bin/activate
+
+# Install
+pip install -r requirements.txt
+
+
+# upload to github
 git add . 
 git commit -m "Update" 
 git push origin main
+
+# PPT LINK
+https://www.canva.com/design/DAGifv3GnY4/maOJ3bXlaCZuqgz6Ef6lYA/edit?utm_content=DAGifv3GnY4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 # install
