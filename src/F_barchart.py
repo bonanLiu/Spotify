@@ -1,13 +1,13 @@
 import matplotlib.pyplot as plt
 
 # Model names
-models = ['KNN', 'Naïve Bayes', 'SVM']
+models = ['XGBClassifier','RandomForestClassifier','KNN', 'Naïve Bayes', 'SVM']
 
 # Accuracy (in percentage)
-accuracy = [75.8, 68.1, 80.2]
+accuracy = [74.11,74.08, 69.17, 64.94, 72.45]
 
 # Runtime (in seconds)
-runtime = [10.41, 0.05, 232.27]
+runtime = [40.15, 386.29, 6.17, 0.07, 272.4]
 
 # Create figure and axis
 fig, ax1 = plt.subplots()
